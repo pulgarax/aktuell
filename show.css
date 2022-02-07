@@ -17,11 +17,14 @@ h1 {
     
   } 
 
+
+
+
   * {
     box-sizing: border-box;
     box-shadow: #ffffff00;
-    width: 100%;
-    border: solid #ffffff00 0px;
+    width:100%;
+    border: solid #80000000 0px;
     padding: 3px;
 
     
@@ -33,13 +36,28 @@ h1 {
     padding: 10px;
   }
 
-body {
-display: flex;
-flex-direction: column;
-justify-content: space-between;
-padding: 3rem;
-width: 100vw;
-height: 100vh;
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2rem;
+    width: 100vw;
+    height: 100vh;
+
 
 }
+
+
+ul {
+  
+  list-style-type:none ;
+  display: flex;
+  
+}
+
+/* rerwe r
+rwerwer
+r
+we
+*/
 
